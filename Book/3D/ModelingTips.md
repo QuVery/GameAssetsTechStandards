@@ -4,6 +4,8 @@ When creating 3D models for games, there are certain standards that you should f
 There is also an old but gold resource that you can check out. [Polycount](http://wiki.polycount.com/wiki/Modeling)
 
 ## Unit Setup:
+<img src='https://github.com/omid3098/GameDevTechStandards/assets/6388730/7719c722-0ef8-461a-9f7a-b75f7702ec5b' width='300'>
+
 Make sure you have an appropriate Unit Setup like meters, centimeters, inches, etc. This is important for the scale of your models and the physics of your game. For example, if you are using meters, then a 1x1x1 cube will be 1 meter in length, width, and height. If you are using centimeters, then a 1x1x1 cube will be 1 centimeter in length, width, and height. 
 
 [More info](https://resources.turbosquid.com/training/modeling/real-world-scale/)
