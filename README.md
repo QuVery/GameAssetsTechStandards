@@ -2,14 +2,6 @@
 
 An open-source guide and toolset for establishing and validating technical standards in game development.
 
-## Table of Contents
-
-1. [Introduction](#introduction)
-2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Contributing](#contributing)
-5. [License](#license)
-
 ## Introduction
 
 This repository aims to be a comprehensive resource for game developers in understanding and implementing technical standards across various domains like 2D graphics, 3D modeling, VFX, Shaders, and Audio. It also includes standalone validation tools to ensure assets and code meet the prescribed standards.
