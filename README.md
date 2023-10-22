@@ -17,7 +17,7 @@ So go ahead, use these guidelines as a foundation, but never hesitate to experim
 ## Usage
 
 - [Book](Book/): Navigate through different chapters.
-- [Tools](Tools/): Run validation tools to ensure assets are compliant with standards.
+- TODO: [Tools](Tools/): Run validation tools to ensure assets are compliant with standards.
 
 ## Contributing
 
