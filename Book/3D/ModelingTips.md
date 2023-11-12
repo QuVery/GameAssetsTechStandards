@@ -23,7 +23,7 @@ Isolated vertices are vertices that are not connected to any other vertices. Mak
 [More info](https://resources.turbosquid.com/training/modeling/isolated-vertices/)
 
 ## Overlapping vertices:
-Make sure to weld vertices that are overlapping. This can cause issues with UVs, baking, and other things.
+Make sure to weld vertices that are overlapping when they are in the same. This can cause issues with UVs, baking, and other things.
 You can simply fix them by selecting all vertices and using the weld modifier in blender. [Blender Weld Modifier](https://docs.blender.org/manual/en/latest/modeling/modifiers/generate/weld.html)
 
 ## Non-manifold geometry:
