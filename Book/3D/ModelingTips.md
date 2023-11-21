@@ -3,6 +3,9 @@ When creating 3D models for games, there are certain standards that you should f
 
 There is also an old but gold resource that you can check out. [Polycount](http://wiki.polycount.com/wiki/Modeling)
 
+## Meshes with no geometry:
+Sometimes you create a complex mesh and want to detach elements inside that mesh. You may detach all elements and the main mesh becomes an empty object and you forget to delete it. or maybe on some other ways you might end up having an empty object without any mesh. This will not heavily effect the performance of the game, but it is recommeded to have a clean and valid objects in your file.
+
 ## Unit Setup:
 Make sure you have an appropriate Unit Setup like meters, centimeters, inches, etc. This is important for the scale of your models and the physics of your game. For example, if you are using meters, then a 1x1x1 cube will be 1 meter in length, width, and height. If you are using centimeters, then a 1x1x1 cube will be 1 centimeter in length, width, and height. 
 
