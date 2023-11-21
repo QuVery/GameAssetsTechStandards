@@ -47,6 +47,10 @@ Non-manifold geometry refers to any edge that is shared by more than two faces.
 
 [More info](https://support.shapeways.com/hc/en-us/articles/360007107674-Tips-for-a-successful-manifold-3D-model)
 
+## Applied Transforms:
+
+Make sure to apply all transforms before exporting your model. If you don't apply the transforms, it can cause issues with the model when you import it into the game engine and your might look squashed, stretched, or rotated.
+
 ## Z-fighting:
 
 Z-fighting is when two faces are overlapping each other. These faces are fighting to be rendered. This can cause issues with your model.
