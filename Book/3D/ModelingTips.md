@@ -12,6 +12,10 @@ Sometimes you create a complex mesh and want to detach elements inside that mesh
 
 You need to make sure that all meshes have a material assigned to them. If you have a mesh with no material, usually it will be assigned to the default material of the game engine with a default name like `DefaultMaterial` or `DefaultMaterial_0` or `Material_##`. Having these kind of materials in your game engine will make it harder to work with and will make it harder to find the materials that you need. So make sure to assign a material to all your meshes.
 
+## Edges with no faces:
+
+Sometimes when you delete some faces of a mesh, you might end up having some edges with no faces. You need to make sure that all edges have at least one face.
+
 ## Unit Setup:
 
 Make sure you have an appropriate Unit Setup like meters, centimeters, inches, etc. This is important for the scale of your models and the physics of your game. For example, if you are using meters, then a 1x1x1 cube will be 1 meter in length, width, and height. If you are using centimeters, then a 1x1x1 cube will be 1 centimeter in length, width, and height.
