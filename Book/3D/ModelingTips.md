@@ -22,7 +22,7 @@ Make sure you have an appropriate Unit Setup like meters, centimeters, inches, e
 
 [More info](https://resources.turbosquid.com/training/modeling/real-world-scale/)
 
-## Clean edge flow:
+## Topology:
 
 Having T-Verts, N-Gons, and other bad topology can cause issues with your model. It can cause issues with UVs, baking, and other things.
 
