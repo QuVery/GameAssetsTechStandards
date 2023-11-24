@@ -51,6 +51,12 @@ Non-manifold geometry refers to any edge that is shared by more than two faces.
 
 Make sure to apply all transforms before exporting your model. If you don't apply the transforms, it can cause issues with the model when you import it into the game engine and your might look squashed, stretched, or rotated.
 
+How to do it [in Blender](https://docs.blender.org/manual/en/latest/scene_layout/object/editing/apply.html#transforms)
+
+<img src=https://github.com/QuVery/GameDevTechStandards/assets/6388730/9efffd5e-cb85-45ee-9c17-eb9bf3aa4f70 width=400>
+
+
+
 ## Z-fighting:
 
 Z-fighting is when two faces are overlapping each other. These faces are fighting to be rendered. This can cause issues with your model.
