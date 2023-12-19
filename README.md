@@ -1,4 +1,4 @@
-# Game Asset Tech Standards
+# Game Assets Tech Standards
 
 An open-source guide and toolset for establishing and validating technical standards in game development.
 
